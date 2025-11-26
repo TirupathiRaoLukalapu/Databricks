@@ -1,2 +1,2 @@
 # Databricks
-I am working on this i will be pushing this file soon.
+This repo contains my practice notes in Databricks 
